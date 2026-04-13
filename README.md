@@ -26,4 +26,5 @@ Model learns to predict values using positional information.
 1. Open the notebook
 2. Run all cells
 
+screen recording of solution : https://drive.google.com/file/d/1rUCyB-We3D_zAS0YAGqZfRbwPdt_NqSe/view?usp=sharing
 ---
